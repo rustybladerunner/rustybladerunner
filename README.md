@@ -87,7 +87,11 @@ A 3D globe of real terrain and buildings. It has its name on [impossibletask.dev
 
 **Languages**
 
-<img src="assets/stack-languages.svg" alt="Rust, TypeScript, Python, C++, HTML, Bash" />
+<img src="assets/stack-languages.svg" alt="Rust, TypeScript, Python, C++, JavaScript, Bash" />
+
+**Web**
+
+<img src="assets/stack-web.svg" alt="HTML, CSS, PHP" />
 
 **Local inference**
 
@@ -104,15 +108,36 @@ A 3D globe of real terrain and buildings. It has its name on [impossibletask.dev
 
 **Data**
 
-<img src="assets/stack-data.svg" alt="SQLite" />
+<img src="assets/stack-data.svg" alt="PostgreSQL, MySQL, SQLite, SQL Server" />
+
+**Microsoft**
+
+<img src="assets/stack-microsoft.svg" alt="Windows, PowerShell, Microsoft" />
+
+**Systems**
+
+<img src="assets/stack-systems.svg" alt="Linux, Debian, Red Hat, Proxmox, Nginx, VMware" />
+
+**Networking**
+
+<img src="assets/stack-network.svg" alt="Cisco, Ubiquiti, pfSense" />
+
+**Communications**
+
+<img src="assets/stack-comms.svg" alt="Asterisk" />
+<img src="assets/stack-comms-chips.svg" alt="FreePBX" />
+
+**On-site**
+
+<img src="assets/stack-physical-chips.svg" alt="Access control, Video" />
 
 **Infra**
 
-<img src="assets/stack-infra.svg" alt="Docker, Linux, Cloudflare, GitHub Actions" />
+<img src="assets/stack-infra.svg" alt="Docker, Cloudflare, GitHub Actions" />
 
 **Tools**
 
-<img src="assets/stack-tools.svg" alt="Git, GitHub, Blender, Unreal Engine" />
+<img src="assets/stack-tools.svg" alt="Git, GitHub, VS Code, Blender, Unreal Engine" />
 
 ---
 
