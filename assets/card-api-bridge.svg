@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
-  <rect width="640" height="360" fill="#0a0e12"/>
-  <rect x="16" y="16" width="608" height="328" rx="10" fill="none" stroke="#c9d1d9" stroke-opacity="0.28"/>
-  <text x="40" y="56" fill="#8B949E" font-family="Courier New, Courier, monospace" font-size="13">INTEGRATION · WORKED EXAMPLE</text>
-  <text x="40" y="168" fill="#c9d1d9" font-family="Georgia, 'Times New Roman', serif" font-size="32">Integrated-API-Bridge</text>
-  <text x="40" y="214" fill="#8B949E" font-family="Georgia, 'Times New Roman', serif" font-size="16">REST in, SOAP out. Legacy wrapped, not rewritten.</text>
-  <text x="40" y="318" fill="#e0b23c" font-family="Courier New, Courier, monospace" font-size="13">flask · spyne · python</text>
+  <rect width="640" height="360" fill="#161c19"/>
+  <rect x="16" y="16" width="608" height="328" rx="10" fill="none" stroke="#A8B5A8" stroke-opacity="0.45"/>
+  <text x="40" y="168" fill="#E8DFD0" font-family="Georgia, 'Times New Roman', serif" font-size="30">Integrated-API-Bridge</text>
+  <text x="40" y="214" fill="#A8B5A8" font-family="Georgia, 'Times New Roman', serif" font-size="16">REST in, SOAP out.</text>
 </svg>

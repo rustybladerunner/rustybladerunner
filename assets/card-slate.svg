@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
-  <rect width="640" height="360" fill="#0a0e12"/>
-  <rect x="16" y="16" width="608" height="328" rx="10" fill="none" stroke="#35d6e0" stroke-opacity="0.4"/>
-  <text x="40" y="56" fill="#8B949E" font-family="Courier New, Courier, monospace" font-size="13">impossibletask.dev</text>
-  <text x="40" y="170" fill="#e0b23c" font-family="Georgia, 'Times New Roman', serif" font-size="42">The slate</text>
-  <text x="40" y="214" fill="#c9d1d9" font-family="Georgia, 'Times New Roman', serif" font-size="16">Production codenames until they earn a name</text>
-  <text x="40" y="318" fill="#35d6e0" font-family="Courier New, Courier, monospace" font-size="13">local AI / games / privacy apps / desktop tools</text>
+  <rect width="640" height="360" fill="#161c19"/>
+  <rect x="16" y="16" width="608" height="328" rx="10" fill="none" stroke="#D4B45A" stroke-opacity="0.4"/>
+  <text x="40" y="56" fill="#A8B5A8" font-family="Georgia, 'Times New Roman', serif" font-size="14">impossibletask.dev</text>
+  <text x="40" y="175" fill="#D4B45A" font-family="Georgia, 'Times New Roman', serif" font-size="42">The slate</text>
+  <text x="40" y="214" fill="#E8DFD0" font-family="Georgia, 'Times New Roman', serif" font-size="16">The rest of the work, as it stands.</text>
 </svg>

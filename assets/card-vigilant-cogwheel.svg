@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
-  <rect width="640" height="360" fill="#0a0e12"/>
-  <rect x="16" y="16" width="608" height="328" rx="10" fill="none" stroke="#e0b23c" stroke-opacity="0.4"/>
-  <text x="40" y="56" fill="#8B949E" font-family="Courier New, Courier, monospace" font-size="13">LOCAL AI · $0 CLOUD</text>
-  <text x="40" y="175" fill="#e0b23c" font-family="Georgia, 'Times New Roman', serif" font-size="36">vigilant-cogwheel</text>
-  <text x="40" y="214" fill="#c9d1d9" font-family="Georgia, 'Times New Roman', serif" font-size="16">Ministral-3B LoRA on an 8 GB laptop GPU</text>
-  <text x="40" y="318" fill="#35d6e0" font-family="Courier New, Courier, monospace" font-size="13">python · unsloth · cli · tests</text>
+  <rect width="640" height="360" fill="#161c19"/>
+  <rect x="16" y="16" width="608" height="328" rx="10" fill="none" stroke="#D4B45A" stroke-opacity="0.4"/>
+  <text x="40" y="175" fill="#D4B45A" font-family="Georgia, 'Times New Roman', serif" font-size="36">vigilant-cogwheel</text>
+  <text x="40" y="214" fill="#E8DFD0" font-family="Georgia, 'Times New Roman', serif" font-size="16">Local LoRA fine-tune. CLI, sample data, tests.</text>
 </svg>
