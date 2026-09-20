@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="176" viewBox="0 0 640 176" role="img">
+  <title>aldertrace — Evidence-aware prerequisite routing, measured honestly.</title>
+  <rect width="640" height="176" rx="12" fill="#161c19"/>
+  <rect x="0.75" y="0.75" width="638.5" height="174.5" rx="12" fill="none" stroke="#D4B45A" stroke-opacity="0.28"/>
+  <text x="22" y="38" fill="#A8B5A8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.8">PUBLIC</text>
+  <text x="22" y="70" fill="#D4B45A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600">aldertrace</text>
+  <text x="22" y="98" fill="#E8DFD0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Should an agent skip a check? Only with evidence. Mixed, honest results.</text>
+  <text x="22" y="154" fill="#A8B5A8" font-family="Consolas, ui-monospace, monospace" font-size="12">Python  ·  unittest  ·  MIT</text>
+  <rect x="562" y="22" width="56" height="22" rx="6" fill="#161c19" stroke="#D4B45A" stroke-opacity="0.35"/>
+  <text x="590.0" y="37" text-anchor="middle" fill="#D4B45A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Study</text>
+</svg>

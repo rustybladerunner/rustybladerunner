@@ -1,3 +1,5 @@
+<img src="assets/terminal-bio.svg" width="100%" alt="Vault terminal: rustybladerunner — local tools, games, utilities; most work is not on GitHub; impossibletask.dev" />
+
 <!--
   Profile README for github.com/rustybladerunner
   Compact header borrowed from impossibletask.dev (nav + headline).
@@ -52,6 +54,22 @@ Local AI tooling, games, privacy apps, and desktop utilities.
 
 <a href="https://github.com/rustybladerunner/Integrated-API-Bridge">
   <img src="assets/card-api-bridge.svg" width="100%" alt="Integrated-API-Bridge — REST in, SOAP out" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rustybladerunner/aldertrace">
+  <img src="assets/card-aldertrace.svg" width="100%" alt="aldertrace — evidence-aware prerequisite routing, measured honestly" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rustybladerunner/jev-skills">
+  <img src="assets/card-jev-skills.svg" width="100%" alt="jev-skills — prove a change, bound an experiment" />
 </a>
 
 </td>
