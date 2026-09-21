@@ -9,66 +9,37 @@
 
 # Local tools. Open experiments. Interactive worlds.
 
-Public tools and experiments from **Impossible Task**.
+Selected public tools, experiments, and research.
 
-### Start here: Aldertrace
+## Project showcase
 
-[**Can an agent safely skip a prerequisite check?**](https://github.com/rustybladerunner/aldertrace) An 80-case synthetic study with an offline demo, recorded results, and failure analysis. Routing overhead exceeded the reading avoided; savings on completed coding tasks remain unproven.
+<a href="https://github.com/rustybladerunner/aldertrace">
+  <img src="assets/showcase-aldertrace.svg" width="100%" alt="Aldertrace — evidence before action. Featured research: an 80-case synthetic study of prerequisite routing." />
+</a>
+
+A reproducible study of when an agent can skip a prerequisite check. Routing overhead exceeded the reading avoided; savings on completed coding tasks remain unproven.
 
 [Run the offline demo](https://github.com/rustybladerunner/aldertrace#start-here) · [Read the results](https://github.com/rustybladerunner/aldertrace#what-the-experiment-found)
 
-## Public repos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rustybladerunner/vigilant-cogwheel">
-  <img src="assets/card-vigilant-cogwheel.svg" width="100%" alt="vigilant-cogwheel — local LoRA fine-tune" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://rustybladerunner.github.io/alphalight/">
-  <img src="assets/card-alphalight.svg" width="100%" alt="alphalight — 10 Hz and 40 Hz" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rustybladerunner/signaled-gear">
-  <img src="assets/card-signaled-gear.svg" width="100%" alt="signaled-gear — notes on agentic coding" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rustybladerunner/Integrated-API-Bridge">
-  <img src="assets/card-api-bridge.svg" width="100%" alt="Integrated-API-Bridge — REST in, SOAP out" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rustybladerunner/aldertrace">
-  <img src="assets/card-aldertrace.svg" width="100%" alt="aldertrace — evidence-aware prerequisite routing, measured honestly" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/rustybladerunner/jev-skills">
-  <img src="assets/card-jev-skills.svg" width="100%" alt="jev-skills — prove a change, bound an experiment" />
+  <img src="assets/showcase-jev-skills.svg" width="100%" alt="jev-skills — prove the change, test the claim. Reusable workflows for integration review and bounded experiments." />
 </a>
 
-</td>
-</tr>
-</table>
+Two reusable agent workflows for reviewing integrations and running bounded experiments, with Python examples.
+
+<details>
+<summary>Earlier work · 4 projects</summary>
+
+Earlier tools, demos, and research notes.
+
+| Project | What it is |
+| :--- | :--- |
+| [vigilant-cogwheel](https://github.com/rustybladerunner/vigilant-cogwheel) | Local LoRA fine-tuning workflow for Ministral-3B, with a CLI and sample data. |
+| [alphalight](https://github.com/rustybladerunner/alphalight) | A small browser light experiment with 10 Hz and 40 Hz modes. |
+| [signaled-gear](https://github.com/rustybladerunner/signaled-gear) | Personal research notes distilled from public talks on agentic coding. |
+| [Integrated-API-Bridge](https://github.com/rustybladerunner/Integrated-API-Bridge) | A Flask / spyne demo connecting REST and SOAP services. |
+
+</details>
 
 ## Named, not public
 

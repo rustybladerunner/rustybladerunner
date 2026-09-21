@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">jev-skills — prove the change, test the claim</title>
+  <desc id="desc">Two reusable workflows for integration review and bounded experiments, illustrated by paired technical notebooks.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#21281e"/><stop offset="1" stop-color="#101a16"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c5b571" fill-opacity=".12"/></pattern>
+    <clipPath id="clip"><rect width="960" height="260" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="960" height="260" fill="url(#background)"/>
+    <rect x="544" width="416" height="260" fill="url(#grid)"/>
+    <g transform="translate(665 14) rotate(-8 80 90)">
+      <rect width="158" height="177" rx="5" fill="#111c16" stroke="#d4b45a" stroke-opacity=".38"/>
+      <path d="M20 40h118M20 128h87M20 140h110M20 152h73" stroke="#9fac94" stroke-opacity=".3"/>
+      <text x="20" y="26" fill="#d4b45a" font-family="Consolas,monospace" font-size="12">01 / INTEGRATE</text>
+      <path d="m41 71-13 14 13 14m77-28 13 14-13 14m-31-35-14 67" fill="none" stroke="#d4b45a" stroke-width="3"/>
+    </g>
+    <g transform="translate(786 52) rotate(8 80 90)">
+      <rect width="158" height="177" rx="5" fill="#16251d" stroke="#8fb89a" stroke-opacity=".6"/>
+      <path d="M20 40h118M20 128h110M20 140h69M20 152h93" stroke="#9fac94" stroke-opacity=".3"/>
+      <text x="16" y="26" fill="#b6ceb9" font-family="Consolas,monospace" font-size="11">02 / HYPOTHESIZE</text>
+      <path d="M59 57h40m-31 0v21l-20 33h62L90 78V57M58 97h42" fill="none" stroke="#8fb89a" stroke-width="3" stroke-linejoin="round"/>
+    </g>
+    <text x="32" y="42" fill="#b9c9bd" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">WORKFLOW COLLECTION</text>
+    <text x="30" y="112" fill="#eee9dd" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1">jev-skills</text>
+    <text x="34" y="153" fill="#d4b45a" font-family="Segoe UI,Arial,sans-serif" font-size="27">Prove the change. Test the claim.</text>
+    <path d="M0 202H960" stroke="#8fb89a" stroke-opacity=".2"/>
+    <rect y="203" width="960" height="57" fill="#0b1411" fill-opacity=".9"/>
+    <text x="34" y="238" fill="#b9c9bd" font-family="Segoe UI,Arial,sans-serif" font-size="18">SKILLS  /  PYTHON EXAMPLES</text>
+    <text x="914" y="238" text-anchor="end" fill="#e4c776" font-family="Segoe UI,Arial,sans-serif" font-size="20">Open the collection &#8599;</text>
+  </g>
+  <rect x=".5" y=".5" width="959" height="259" rx="8" fill="none" stroke="#77896e" stroke-opacity=".35"/>
+</svg>
