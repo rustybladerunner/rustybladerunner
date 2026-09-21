@@ -1,4 +1,4 @@
-<img src="assets/terminal-bio.svg?v=private-record" width="100%" alt="Vault terminal: rustybladerunner — local tools, games, utilities; most work is not on GitHub; impossibletask.dev" />
+<img src="assets/terminal-bio.svg?v=missingno-encounter" width="100%" alt="Vault terminal: rustybladerunner — local tools, games, utilities; most work is not on GitHub; impossibletask.dev" />
 
 <!--
   Profile README for github.com/rustybladerunner
@@ -13,19 +13,20 @@ Selected public tools, experiments, and research.
 
 ## Project showcase
 
-<a href="https://github.com/rustybladerunner/aldertrace">
-  <img src="assets/showcase-aldertrace.svg" width="100%" alt="Aldertrace — evidence before action. Featured research: an 80-case synthetic study of prerequisite routing." />
-</a>
-
-A reproducible study of when an agent can skip a prerequisite check. Routing overhead exceeded the reading avoided; savings on completed coding tasks remain unproven.
-
-[Run the offline demo](https://github.com/rustybladerunner/aldertrace#start-here) · [Read the results](https://github.com/rustybladerunner/aldertrace#what-the-experiment-found)
-
-<a href="https://github.com/rustybladerunner/jev-skills">
-  <img src="assets/showcase-jev-skills.svg" width="100%" alt="jev-skills — prove the change, test the claim. Reusable workflows for integration review and bounded experiments." />
-</a>
-
-Two reusable agent workflows for reviewing integrations and running bounded experiments, with Python examples.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rustybladerunner/aldertrace"><img src="assets/card-aldertrace-collectible.png" width="100%" alt="Aldertrace — Evidence before action. Research into agent prerequisite checks; 80 synthetic cases, Python." /></a>
+<p>Routing overhead exceeded the reading avoided. Savings on completed coding tasks remain unproven.</p>
+<p><a href="https://github.com/rustybladerunner/aldertrace#start-here">Offline demo</a> · <a href="https://github.com/rustybladerunner/aldertrace#what-the-experiment-found">Results</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rustybladerunner/jev-skills"><img src="assets/card-jev-skills-collectible.png" width="100%" alt="jev-skills — Prove the change. Test the claim. Two workflows for integration review and bounded experiments, with Python examples." /></a>
+<p>Reusable agent workflows for reviewing integrations and running bounded experiments.</p>
+<p><a href="https://github.com/rustybladerunner/jev-skills#readme">Explore the workflows</a></p>
+</td>
+</tr>
+</table>
 
 <details>
 <summary>Earlier work · 4 projects</summary>
