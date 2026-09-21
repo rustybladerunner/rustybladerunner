@@ -19,9 +19,15 @@
   <a href="https://impossibletask.dev/#method">Method</a>
 </p>
 
-# A slate of systems in quiet production.
+# Local tools. Open experiments. Interactive worlds.
 
-Local AI tooling, games, privacy apps, and desktop utilities.
+I build local AI tools, desktop utilities, and interactive worlds under **Impossible Task**. Below are six public projects you can inspect, use, or reproduce.
+
+### Start here: Aldertrace
+
+[**Can an agent safely skip a prerequisite check?**](https://github.com/rustybladerunner/aldertrace) An 80-case synthetic study with an offline demo, recorded results, and failure analysis. Routing overhead exceeded the reading avoided; savings on completed coding tasks remain unproven.
+
+[Run the offline demo](https://github.com/rustybladerunner/aldertrace#start-here) · [Read the results](https://github.com/rustybladerunner/aldertrace#what-the-experiment-found)
 
 ## Public repos
 
@@ -84,6 +90,14 @@ Local AI tooling, games, privacy apps, and desktop utilities.
 
 ## Stack
 
+**Core:** Rust · TypeScript · Python · React · Ollama · Unsloth
+
+<img src="assets/icons/rust.svg" height="32" alt="Rust" title="Rust" /> <img src="assets/icons/typescript.svg" height="32" alt="TypeScript" title="TypeScript" /> <img src="assets/icons/python.svg" height="32" alt="Python" title="Python" /> <img src="assets/icons/react.svg" height="32" alt="React" title="React" /> <img src="assets/icons/ollama.svg" height="32" alt="Ollama" title="Ollama" /> <img src="assets/chips/unsloth.svg" height="28" alt="Unsloth" title="Unsloth" />
+
+<details>
+<summary>More tools across software, infrastructure, and creative work</summary>
+
+
 **Languages**
 
 <img src="assets/icons/rust.svg" height="32" alt="Rust" title="Rust" /> <img src="assets/icons/typescript.svg" height="32" alt="TypeScript" title="TypeScript" /> <img src="assets/icons/python.svg" height="32" alt="Python" title="Python" /> <img src="assets/icons/cplusplus.svg" height="32" alt="C++" title="C++" /> <img src="assets/icons/javascript.svg" height="32" alt="JavaScript" title="JavaScript" /> <img src="assets/icons/gnubash.svg" height="32" alt="Bash" title="Bash" />
@@ -131,3 +145,5 @@ Local AI tooling, games, privacy apps, and desktop utilities.
 **Tools**
 
 <img src="assets/icons/git.svg" height="32" alt="Git" title="Git" /> <img src="assets/icons/github.svg" height="32" alt="GitHub" title="GitHub" /> <img src="assets/icons/visualstudiocode.svg" height="32" alt="VS Code" title="VS Code" /> <img src="assets/icons/powershell.svg" height="32" alt="PowerShell" title="PowerShell" /> <img src="assets/icons/blender.svg" height="32" alt="Blender" title="Blender" /> <img src="assets/icons/unrealengine.svg" height="32" alt="Unreal Engine" title="Unreal Engine" /> <img src="assets/icons/adobephotoshop.svg" height="32" alt="Photoshop" title="Photoshop" /> <img src="assets/icons/adobepremierepro.svg" height="32" alt="Premiere Pro" title="Premiere Pro" /> <img src="assets/icons/adobeillustrator.svg" height="32" alt="Illustrator" title="Illustrator" />
+
+</details>
