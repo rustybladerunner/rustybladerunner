@@ -1,9 +1,9 @@
-<img src="assets/terminal-bio.svg" width="100%" alt="Vault terminal: rustybladerunner — local tools, games, utilities; most work is not on GitHub; impossibletask.dev" />
+<img src="assets/terminal-bio.svg?v=private-record" width="100%" alt="Vault terminal: rustybladerunner — local tools, games, utilities; most work is not on GitHub; impossibletask.dev" />
 
 <!--
   Profile README for github.com/rustybladerunner
   Stack marks are one <img> each so title= works as a tooltip.
-  Earthomicon is named; the repo is not public.
+  Private work stays unnamed and intentionally nonspecific.
   Cards carry the title; the whole card is the link.
 -->
 
@@ -41,11 +41,9 @@ Earlier tools, demos, and research notes.
 
 </details>
 
-## Named, not public
+## Behind the scenes
 
-<a href="https://impossibletask.dev">
-  <img src="assets/card-earthomicon.svg" width="100%" alt="Earthomicon — 3D globe; source is private" />
-</a>
+<img src="assets/card-private-experiment.svg" width="100%" alt="Private experiment — exploring an idea. Keeping the details private." />
 
 ## Stack
 

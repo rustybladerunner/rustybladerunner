@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-labelledby="t d">
 <title id="t">rustybladerunner — vault terminal</title>
-<desc id="d">A Ghostty-style glass terminal over Matrix rain. A vault terminal lock screen is hacked, then the vault record for rustybladerunner is dumped: surface impossibletask.dev; public repos vigilant-cogwheel, alphalight, signaled-gear, Integrated-API-Bridge, aldertrace, jev-skills; Earthomicon named, repo private; stack Rust, TypeScript, Python, local inference; most of the work is not on GitHub.</desc>
+<desc id="d">A Ghostty-style glass terminal over Matrix rain. A vault terminal lock screen is hacked, then the vault record for rustybladerunner is dumped: surface impossibletask.dev; public repos vigilant-cogwheel, alphalight, signaled-gear, Integrated-API-Bridge, aldertrace, jev-skills; an unnamed private experiment; stack Rust, TypeScript, Python, local inference; most of the work is not on GitHub.</desc>
 <defs>
   <clipPath id="win"><rect x="16" y="14" width="848" height="312" rx="12"/></clipPath>
   <clipPath id="content"><rect x="16" y="48" width="848" height="278"/></clipPath>
@@ -68,7 +68,7 @@
 <clipPath id="c16"><rect x="43" y="145" height="21" width="0"><animate attributeName="width" values="0;0;282.8;282.8;0;0" keyTimes="0;0.75172;0.76391;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c17"><rect x="43" y="166" height="21" width="0"><animate attributeName="width" values="0;0;688.4;688.4;0;0" keyTimes="0;0.76883;0.79862;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c18"><rect x="43" y="187" height="21" width="0"><animate attributeName="width" values="0;0;321.8;321.8;0;0" keyTimes="0;0.80015;0.81403;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c19"><rect x="43" y="208" height="21" width="0"><animate attributeName="width" values="0;0;345.2;345.2;0;0" keyTimes="0;0.81895;0.83385;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c19"><rect x="43" y="208" height="21" width="0"><animate attributeName="width" values="0;0;290.6;290.6;0;0" keyTimes="0;0.81895;0.83385;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c20"><rect x="43" y="229" height="21" width="0"><animate attributeName="width" values="0;0;485.6;485.6;0;0" keyTimes="0;0.83877;0.85975;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c21"><rect x="43" y="250" height="21" width="0"><animate attributeName="width" values="0;0;399.8;399.8;0;0" keyTimes="0;0.86468;0.88194;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c22"><rect x="43" y="271" height="21" width="0"><animate attributeName="width" values="0;0;197;197;0;0" keyTimes="0;0.89578;0.92809;0.97363;0.97366;1" calcMode="linear" dur="32.5s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
@@ -199,7 +199,7 @@
     <g clip-path="url(#c16)"><text x="44" y="160" textLength="280.8" lengthAdjust="spacing"><tspan fill="#7CFF6B">  SURFACE ....... </tspan><tspan fill="#39ff14">impossibletask.dev</tspan></text></g>
     <g clip-path="url(#c17)"><text x="44" y="181" textLength="686.4" lengthAdjust="spacing"><tspan fill="#7CFF6B">  PUBLIC ........ </tspan><tspan fill="#39ff14">vigilant-cogwheel · alphalight · signaled-gear · Integrated-API-Bridge</tspan></text></g>
     <g clip-path="url(#c18)"><text x="44" y="202" textLength="319.8" lengthAdjust="spacing"><tspan fill="#7CFF6B">                  </tspan><tspan fill="#39ff14">aldertrace · jev-skills</tspan></text></g>
-    <g clip-path="url(#c19)"><text x="44" y="223" textLength="343.2" lengthAdjust="spacing"><tspan fill="#7CFF6B">  NAMED ......... </tspan><tspan fill="#39ff14">Earthomicon (repo private)</tspan></text></g>
+    <g clip-path="url(#c19)"><text x="44" y="223" textLength="288.6" lengthAdjust="spacing"><tspan fill="#7CFF6B">  PRIVATE ....... </tspan><tspan fill="#39ff14">Private experiment</tspan></text></g>
     <g clip-path="url(#c20)"><text x="44" y="244" textLength="483.6" lengthAdjust="spacing"><tspan fill="#7CFF6B">  STACK ......... </tspan><tspan fill="#39ff14">Rust · TypeScript · Python · local inference</tspan></text></g>
     <g clip-path="url(#c21)"><text x="44" y="265" textLength="397.8" lengthAdjust="spacing"><tspan fill="#7CFF6B">  NOTE .......... </tspan><tspan fill="#39ff14">most of the work is not on GitHub</tspan></text></g>
     <g clip-path="url(#c22)"><text x="44" y="286" textLength="195" lengthAdjust="spacing"><tspan fill="#FFB000">&gt; </tspan><tspan fill="#FFB000">SCAN COMPLETE. CYCLING…</tspan></text></g>
