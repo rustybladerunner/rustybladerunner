@@ -2,26 +2,14 @@
 
 <!--
   Profile README for github.com/rustybladerunner
-  Compact header borrowed from impossibletask.dev (nav + headline).
   Stack marks are one <img> each so title= works as a tooltip.
   Earthomicon is named; the repo is not public.
   Cards carry the title; the whole card is the link.
 -->
 
-<p>
-  <img src="assets/brand.svg" height="22" alt="" />
-  <strong>Impossible Task</strong>
-  &nbsp;·&nbsp;
-  <a href="https://impossibletask.dev">impossibletask.dev</a>
-  &nbsp;·&nbsp;
-  <a href="https://impossibletask.dev/#slate">Slate</a>
-  &nbsp;·&nbsp;
-  <a href="https://impossibletask.dev/#method">Method</a>
-</p>
-
 # Local tools. Open experiments. Interactive worlds.
 
-I build local AI tools, desktop utilities, and interactive worlds under **Impossible Task**. Below are six public projects you can inspect, use, or reproduce.
+Public tools and experiments from **Impossible Task**.
 
 ### Start here: Aldertrace
 
