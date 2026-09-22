@@ -56,4 +56,93 @@ Earlier tools, demos, and research notes.
 
 ## Stack
 
-<img src="assets/stack-matrix.svg" width="100%" alt="Stack in falling columns: languages, local inference including TypeSafe FastMCP and Pydantic, frameworks, data, systems, networking, and tools including Postman and Bitvise." />
+<table>
+<tr>
+<td align="center" valign="top">
+
+<img src="assets/icons/rust.svg" height="28" alt="Rust" title="Rust" /><br>
+<img src="assets/icons/typescript.svg" height="28" alt="TypeScript" title="TypeScript" /><br>
+<img src="assets/icons/python.svg" height="28" alt="Python" title="Python" /><br>
+<img src="assets/icons/cplusplus.svg" height="28" alt="C++" title="C++" /><br>
+<img src="assets/icons/javascript.svg" height="28" alt="JavaScript" title="JavaScript" /><br>
+<img src="assets/icons/gnubash.svg" height="28" alt="Bash" title="Bash" /><br>
+<img src="assets/icons/html5.svg" height="28" alt="HTML5" title="HTML5" /><br>
+<img src="assets/icons/css.svg" height="28" alt="CSS" title="CSS" /><br>
+<img src="assets/icons/php.svg" height="28" alt="PHP" title="PHP" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/icons/ollama.svg" height="28" alt="Ollama" title="Ollama" /><br>
+<img src="https://img.shields.io/badge/ComfyUI-1C1C1C?style=flat&logoColor=white" alt="ComfyUI" title="ComfyUI" /><br>
+<img src="https://img.shields.io/badge/FLUX-111111?style=flat&logoColor=white" alt="FLUX" title="FLUX" /><br>
+<img src="https://img.shields.io/badge/Unsloth-65A30D?style=flat&logoColor=white" alt="Unsloth" title="Unsloth" /><br>
+<img src="https://img.shields.io/badge/MCP-6D28D9?style=flat&logoColor=white" alt="MCP" title="MCP" /><br>
+<img src="https://img.shields.io/badge/FastMCP-0F172A?style=flat&logoColor=white" alt="FastMCP" title="FastMCP" /><br>
+<img src="https://img.shields.io/badge/TypeSafe-5B21B6?style=flat&logoColor=white" alt="TypeSafe" title="TypeSafe" /><br>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" alt="Pydantic" title="Pydantic" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/icons/react.svg" height="28" alt="React" title="React" /><br>
+<img src="assets/icons/svelte.svg" height="28" alt="Svelte" title="Svelte" /><br>
+<img src="assets/icons/vite.svg" height="28" alt="Vite" title="Vite" /><br>
+<img src="assets/icons/threedotjs.svg" height="28" alt="Three.js" title="Three.js" /><br>
+<img src="assets/icons/tauri.svg" height="28" alt="Tauri" title="Tauri" /><br>
+<img src="assets/icons/electron.svg" height="28" alt="Electron" title="Electron" /><br>
+<img src="assets/icons/maplibre.svg" height="28" alt="MapLibre" title="MapLibre" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/icons/postgresql.svg" height="28" alt="PostgreSQL" title="PostgreSQL" /><br>
+<img src="assets/icons/mysql.svg" height="28" alt="MySQL" title="MySQL" /><br>
+<img src="assets/icons/sqlite.svg" height="28" alt="SQLite" title="SQLite" /><br>
+<img src="assets/icons/microsoftsqlserver.svg" height="28" alt="SQL Server" title="SQL Server" /><br>
+<img src="assets/icons/docker.svg" height="28" alt="Docker" title="Docker" /><br>
+<img src="assets/icons/microsoftazure.svg" height="28" alt="Azure" title="Azure" /><br>
+<img src="assets/icons/cloudflare.svg" height="28" alt="Cloudflare" title="Cloudflare" /><br>
+<img src="assets/icons/githubactions.svg" height="28" alt="GitHub Actions" title="GitHub Actions" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/icons/linux.svg" height="28" alt="Linux" title="Linux" /><br>
+<img src="assets/icons/debian.svg" height="28" alt="Debian" title="Debian" /><br>
+<img src="assets/icons/ubuntu.svg" height="28" alt="Ubuntu" title="Ubuntu" /><br>
+<img src="assets/icons/redhat.svg" height="28" alt="Red Hat" title="Red Hat" /><br>
+<img src="assets/icons/proxmox.svg" height="28" alt="Proxmox" title="Proxmox" /><br>
+<img src="assets/icons/nginx.svg" height="28" alt="Nginx" title="Nginx" /><br>
+<img src="assets/icons/vmware.svg" height="28" alt="VMware" title="VMware" /><br>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Hyper-V" title="Hyper-V" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/icons/cisco.svg" height="28" alt="Cisco" title="Cisco" /><br>
+<img src="assets/icons/ubiquiti.svg" height="28" alt="Ubiquiti" title="Ubiquiti" /><br>
+<img src="assets/icons/pfsense.svg" height="28" alt="pfSense" title="pfSense" /><br>
+<img src="assets/icons/asterisk.svg" height="28" alt="Asterisk" title="Asterisk" /><br>
+<img src="https://img.shields.io/badge/FreePBX-F47920?style=flat&logoColor=white" alt="FreePBX" title="FreePBX" /><br>
+<img src="https://img.shields.io/badge/Access%20control-334155?style=flat&logoColor=white" alt="Access control" title="Access control" /><br>
+<img src="https://img.shields.io/badge/Video-0F766E?style=flat&logoColor=white" alt="Video" title="Video" />
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/icons/git.svg" height="28" alt="Git" title="Git" /><br>
+<img src="assets/icons/github.svg" height="28" alt="GitHub" title="GitHub" /><br>
+<img src="assets/icons/visualstudiocode.svg" height="28" alt="VS Code" title="VS Code" /><br>
+<img src="assets/icons/powershell.svg" height="28" alt="PowerShell" title="PowerShell" /><br>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" title="Postman" /><br>
+<img src="https://img.shields.io/badge/Bitvise-1B4F72?style=flat&logoColor=white" alt="Bitvise" title="Bitvise" /><br>
+<img src="assets/icons/blender.svg" height="28" alt="Blender" title="Blender" /><br>
+<img src="assets/icons/unrealengine.svg" height="28" alt="Unreal Engine" title="Unreal Engine" /><br>
+<img src="assets/icons/adobephotoshop.svg" height="28" alt="Photoshop" title="Photoshop" /><br>
+<img src="assets/icons/adobepremierepro.svg" height="28" alt="Premiere Pro" title="Premiere Pro" /><br>
+<img src="assets/icons/adobeillustrator.svg" height="28" alt="Illustrator" title="Illustrator" />
+
+</td>
+</tr>
+</table>
