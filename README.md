@@ -15,27 +15,31 @@ Selected public tools, experiments, and research.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/aldertrace"><img src="assets/card-aldertrace-collectible.png" width="100%" alt="Aldertrace — Evidence before action. Research into agent prerequisite checks; 80 synthetic cases, Python." /></a>
 <p>Routing overhead exceeded the reading avoided. Savings on completed coding tasks remain unproven.</p>
 <p><a href="https://github.com/rustybladerunner/aldertrace#start-here">Offline demo</a> · <a href="https://github.com/rustybladerunner/aldertrace#what-the-experiment-found">Results</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/jev-skills"><img src="assets/card-jev-skills-collectible.png" width="100%" alt="jev-skills — Prove the change. Test the claim. Two workflows for integration review and bounded experiments, with Python examples." /></a>
 <p>Reusable agent workflows for reviewing integrations and running bounded experiments.</p>
 <p><a href="https://github.com/rustybladerunner/jev-skills#readme">Explore the workflows</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/rustybladerunner/vigilant-cogwheel"><img src="assets/card-vigilant-cogwheel.svg" width="100%" alt="vigilant-cogwheel — local LoRA fine-tune for Ministral-3B." /></a>
+<p>Local LoRA fine-tuning workflow for Ministral-3B, with a CLI and sample data.</p>
+<p><a href="https://github.com/rustybladerunner/vigilant-cogwheel#readme">Read the workflow</a></p>
 </td>
 </tr>
 </table>
 
 <details>
-<summary>Earlier work · 8 projects</summary>
+<summary>Earlier work · 7 projects</summary>
 
 Earlier tools, demos, and research notes.
 
 | Project | What it is |
 | :--- | :--- |
-| [vigilant-cogwheel](https://github.com/rustybladerunner/vigilant-cogwheel) | Local LoRA fine-tuning workflow for Ministral-3B, with a CLI and sample data. |
 | [alphalight](https://github.com/rustybladerunner/alphalight) | A small browser light experiment with 10 Hz and 40 Hz modes. |
 | [signaled-gear](https://github.com/rustybladerunner/signaled-gear) | Personal research notes distilled from public talks on agentic coding. |
 | [Integrated-API-Bridge](https://github.com/rustybladerunner/Integrated-API-Bridge) | A Flask / spyne demo connecting REST and SOAP services. |
