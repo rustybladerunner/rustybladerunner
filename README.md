@@ -34,7 +34,7 @@ Selected public tools, experiments, and research.
 </table>
 
 <details>
-<summary>Earlier work · 7 projects</summary>
+<summary>Earlier work · 3 projects</summary>
 
 Earlier tools, demos, and research notes.
 
@@ -43,10 +43,6 @@ Earlier tools, demos, and research notes.
 | [alphalight](https://github.com/rustybladerunner/alphalight) | A small browser light experiment with 10 Hz and 40 Hz modes. |
 | [signaled-gear](https://github.com/rustybladerunner/signaled-gear) | Personal research notes distilled from public talks on agentic coding. |
 | [Integrated-API-Bridge](https://github.com/rustybladerunner/Integrated-API-Bridge) | A Flask / spyne demo connecting REST and SOAP services. |
-| [improve](https://github.com/rustybladerunner/improve) | Have a strong model audit a codebase and write plans a cheaper model can execute. |
-| [video2ascii](https://github.com/rustybladerunner/video2ascii) | WebGL React component that turns video into ASCII. |
-| [scanopy](https://github.com/rustybladerunner/scanopy) | Network diagrams with a one-time setup. |
-| [Oligarchy](https://github.com/rustybladerunner/Oligarchy) | Agent-harness experiments for running and testing Omarchy releases. |
 
 </details>
 
