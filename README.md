@@ -56,6 +56,7 @@ Earlier tools, demos, and research notes.
 <tr>
 <td align="center" valign="top">
 
+<strong>Languages</strong><br><br>
 <img src="assets/icons/rust.svg" height="28" alt="Rust" title="Rust" /><br>
 <img src="assets/icons/typescript.svg" height="28" alt="TypeScript" title="TypeScript" /><br>
 <img src="assets/icons/python.svg" height="28" alt="Python" title="Python" /><br>
@@ -69,6 +70,7 @@ Earlier tools, demos, and research notes.
 </td>
 <td align="center" valign="top">
 
+<strong>Inference</strong><br><br>
 <img src="assets/icons/ollama.svg" height="28" alt="Ollama" title="Ollama" /><br>
 <img src="https://img.shields.io/badge/ComfyUI-1C1C1C?style=flat&logoColor=white" alt="ComfyUI" title="ComfyUI" /><br>
 <img src="https://img.shields.io/badge/FLUX-111111?style=flat&logoColor=white" alt="FLUX" title="FLUX" /><br>
@@ -81,6 +83,7 @@ Earlier tools, demos, and research notes.
 </td>
 <td align="center" valign="top">
 
+<strong>Apps</strong><br><br>
 <img src="assets/icons/react.svg" height="28" alt="React" title="React" /><br>
 <img src="assets/icons/svelte.svg" height="28" alt="Svelte" title="Svelte" /><br>
 <img src="assets/icons/vite.svg" height="28" alt="Vite" title="Vite" /><br>
@@ -92,6 +95,7 @@ Earlier tools, demos, and research notes.
 </td>
 <td align="center" valign="top">
 
+<strong>Data</strong><br><br>
 <img src="assets/icons/postgresql.svg" height="28" alt="PostgreSQL" title="PostgreSQL" /><br>
 <img src="assets/icons/mysql.svg" height="28" alt="MySQL" title="MySQL" /><br>
 <img src="assets/icons/sqlite.svg" height="28" alt="SQLite" title="SQLite" /><br>
@@ -104,6 +108,7 @@ Earlier tools, demos, and research notes.
 </td>
 <td align="center" valign="top">
 
+<strong>Systems</strong><br><br>
 <img src="assets/icons/linux.svg" height="28" alt="Linux" title="Linux" /><br>
 <img src="assets/icons/debian.svg" height="28" alt="Debian" title="Debian" /><br>
 <img src="assets/icons/ubuntu.svg" height="28" alt="Ubuntu" title="Ubuntu" /><br>
@@ -116,6 +121,7 @@ Earlier tools, demos, and research notes.
 </td>
 <td align="center" valign="top">
 
+<strong>Networks</strong><br><br>
 <img src="assets/icons/cisco.svg" height="28" alt="Cisco" title="Cisco" /><br>
 <img src="assets/icons/ubiquiti.svg" height="28" alt="Ubiquiti" title="Ubiquiti" /><br>
 <img src="assets/icons/pfsense.svg" height="28" alt="pfSense" title="pfSense" /><br>
@@ -128,6 +134,7 @@ Earlier tools, demos, and research notes.
 </td>
 <td align="center" valign="top">
 
+<strong>Tools</strong><br><br>
 <img src="assets/icons/git.svg" height="28" alt="Git" title="Git" /><br>
 <img src="assets/icons/github.svg" height="28" alt="GitHub" title="GitHub" /><br>
 <img src="assets/icons/visualstudiocode.svg" height="28" alt="VS Code" title="VS Code" /><br>
