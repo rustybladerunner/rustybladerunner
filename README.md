@@ -126,7 +126,13 @@ Earlier tools, demos, and research notes.
 <img src="assets/icons/asterisk.svg" height="28" alt="Asterisk" title="Asterisk" /><br>
 <img src="https://img.shields.io/badge/FreePBX-F47920?style=flat&logoColor=white" alt="FreePBX" title="FreePBX" /><br>
 <img src="https://img.shields.io/badge/Access%20control-334155?style=flat&logoColor=white" alt="Access control" title="Access control" /><br>
-<img src="https://img.shields.io/badge/Video-0F766E?style=flat&logoColor=white" alt="Video" title="Video" />
+<img src="https://img.shields.io/badge/CCTV-0EA5E9?style=flat&logoColor=white" alt="CCTV" title="CCTV" /><br>
+<img src="https://img.shields.io/badge/Security%20cameras-0369A1?style=flat&logoColor=white" alt="Security cameras" title="Security cameras" /><br>
+<img src="https://img.shields.io/badge/VMS-0F766E?style=flat&logoColor=white" alt="VMS" title="VMS" /><br>
+<img src="https://img.shields.io/badge/NVR-155E75?style=flat&logoColor=white" alt="NVR" title="NVR" /><br>
+<img src="https://img.shields.io/badge/RTSP-7C3AED?style=flat&logoColor=white" alt="RTSP" title="RTSP" /><br>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg" title="FFmpeg" /><br>
+<img src="https://img.shields.io/badge/FFprobe-007808?style=flat&logo=ffmpeg&logoColor=white" alt="FFprobe" title="FFprobe" />
 
 </td>
 <td align="center" valign="top">
@@ -149,4 +155,4 @@ Earlier tools, demos, and research notes.
 
 ## Models
 
-<img src="assets/model-usage.svg" width="100%" alt="Claude usage by model: Opus 5 41%, Opus 4.8 23%, Fable 5 16%, Fable 5.1 16%, Sonnet 5 2%, Opus 4.7 under 1%. Two smaller models are not listed. Not a spend chart." />
+<img src="assets/model-usage.svg" width="100%" alt="Combined model chart. Claude token share: Opus 5 41%, Opus 4.8 23%, Fable 5 16%, Fable 5.1 16%, Sonnet 5 2%, Opus 4.7 under 1%. Cursor code edits: Composer 2.5 44%, Grok 4.6 39%, Grok 4.7 17%, GPT-5.6 Sol under 1%. Shares are within each source, not one pool. Not spend." />
