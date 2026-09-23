@@ -149,4 +149,4 @@ Earlier tools, demos, and research notes.
 
 ## Models
 
-<img src="assets/model-usage.svg" width="100%" alt="Combined model chart. Claude token share: Opus 5 41%, Opus 4.8 23%, Fable 5 16%, Fable 5.1 16%, Sonnet 5 2%, Opus 4.7 under 1%. Cursor code edits: Composer 2.5 44%, Grok 4.6 39%, Grok 4.7 17%, GPT-5.6 Sol under 1%. Shares are within each source, not one pool. Not spend." />
+<img src="assets/model-usage.svg" width="100%" alt="Combined model chart, each source as its own share. Claude tokens: Opus 5 41%, Opus 4.8 23%, Fable 5 16%, Fable 5.1 16%, Sonnet 5 2%, Opus 4.7 under 1%. Cursor code edits: Composer 2.5 44%, Grok 4.6 39%, Grok 4.7 17%, GPT-5.6 Sol under 1%. Codex weekly limit, Sep 12-26: gpt-6-astra 96%, gpt-5.6-sol 4%, auto-review under 1%. Sep 12-19 is marked incomplete. Not one pooled ranking." />
