@@ -50,10 +50,6 @@ Earlier tools, demos, and research notes.
 
 </details>
 
-## Behind the scenes
-
-<img src="assets/card-private-experiment.svg" width="100%" alt="Private experiment — exploring an idea. Keeping the details private." />
-
 ## Stack
 
 <table>
