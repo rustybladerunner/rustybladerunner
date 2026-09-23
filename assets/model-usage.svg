@@ -1,23 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" role="img">
-  <title>Favorite models by tracked Cursor code edits, 24 Aug to 23 Sep 2026</title>
-  <rect width="880" height="210" fill="#070d08"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img">
+  <title>Claude model share from the account usage screen</title>
+  <rect width="880" height="280" fill="#070d08"/>
   <g font-family="ui-monospace, Cascadia Code, Consolas, monospace" font-size="14">
-    <text x="24" y="36" fill="#e8ffe8">Composer 2.5</text>
-    <text x="24" y="78" fill="#e8ffe8">Grok 4.6</text>
-    <text x="24" y="120" fill="#e8ffe8">Grok 4.7</text>
-    <text x="24" y="162" fill="#e8ffe8">GPT-5.6 Sol</text>
-    <rect x="168" y="20" width="620" height="22" fill="#122016"/>
-    <rect x="168" y="62" width="620" height="22" fill="#122016"/>
-    <rect x="168" y="104" width="620" height="22" fill="#122016"/>
-    <rect x="168" y="146" width="620" height="22" fill="#122016"/>
-    <rect x="168" y="20" width="275" height="22" fill="#3dff6a"/>
-    <rect x="168" y="62" width="239" height="22" fill="#1f9d4a"/>
-    <rect x="168" y="104" width="104" height="22" fill="#D4B45A"/>
-    <rect x="168" y="146" width="4" height="22" fill="#FFB000"/>
-    <text x="452" y="36" fill="#e8ffe8" font-size="13">44%</text>
-    <text x="418" y="78" fill="#e8ffe8" font-size="13">39%</text>
-    <text x="280" y="120" fill="#e8ffe8" font-size="13">17%</text>
-    <text x="180" y="162" fill="#e8ffe8" font-size="13">&lt;1%</text>
-    <text x="24" y="196" fill="#6a8f72" font-size="12">Share of tracked code edits in Cursor, 24 Aug23 Sep 2026. Not spend.</text>
+    <text x="24" y="36" fill="#e8ffe8">Opus 5</text>
+    <text x="24" y="74" fill="#e8ffe8">Opus 4.8</text>
+    <text x="24" y="112" fill="#e8ffe8">Fable 5</text>
+    <text x="24" y="150" fill="#e8ffe8">Fable 5.1</text>
+    <text x="24" y="188" fill="#e8ffe8">Sonnet 5</text>
+    <text x="24" y="226" fill="#e8ffe8">Opus 4.7</text>
+    <rect x="150" y="20" width="620" height="22" fill="#122016"/>
+    <rect x="150" y="58" width="620" height="22" fill="#122016"/>
+    <rect x="150" y="96" width="620" height="22" fill="#122016"/>
+    <rect x="150" y="134" width="620" height="22" fill="#122016"/>
+    <rect x="150" y="172" width="620" height="22" fill="#122016"/>
+    <rect x="150" y="210" width="620" height="22" fill="#122016"/>
+    <rect x="150" y="20" width="255" height="22" fill="#3dff6a"/>
+    <rect x="150" y="58" width="144" height="22" fill="#1f9d4a"/>
+    <rect x="150" y="96" width="99" height="22" fill="#D4B45A"/>
+    <rect x="150" y="134" width="99" height="22" fill="#c4a24a"/>
+    <rect x="150" y="172" width="13" height="22" fill="#FFB000"/>
+    <rect x="150" y="210" width="6" height="22" fill="#8a7340"/>
+    <text x="414" y="36" fill="#e8ffe8" font-size="13">41%</text>
+    <text x="302" y="74" fill="#e8ffe8" font-size="13">23%</text>
+    <text x="258" y="112" fill="#e8ffe8" font-size="13">16%</text>
+    <text x="258" y="150" fill="#e8ffe8" font-size="13">16%</text>
+    <text x="172" y="188" fill="#e8ffe8" font-size="13">2%</text>
+    <text x="164" y="226" fill="#e8ffe8" font-size="13">&lt;1%</text>
+    <text x="24" y="262" fill="#6a8f72" font-size="12">Claude account usage, all time on that screen (about May–Sep 2026). Two smaller models are not listed. Not spend.</text>
   </g>
 </svg>
