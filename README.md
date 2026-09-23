@@ -146,3 +146,7 @@ Earlier tools, demos, and research notes.
 </td>
 </tr>
 </table>
+
+## Models
+
+<img src="assets/model-usage.svg" width="100%" alt="Favorite models by tracked Cursor code edits, 24 Aug to 23 Sep 2026: Composer 2.5 44%, Grok 4.6 39%, Grok 4.7 17%, GPT-5.6 Sol under 1%. Not a spend chart." />
