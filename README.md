@@ -126,13 +126,8 @@ Earlier tools, demos, and research notes.
 <img src="assets/icons/asterisk.svg" height="28" alt="Asterisk" title="Asterisk" /><br>
 <img src="https://img.shields.io/badge/FreePBX-F47920?style=flat&logoColor=white" alt="FreePBX" title="FreePBX" /><br>
 <img src="https://img.shields.io/badge/Access%20control-334155?style=flat&logoColor=white" alt="Access control" title="Access control" /><br>
-<img src="https://img.shields.io/badge/CCTV-0EA5E9?style=flat&logoColor=white" alt="CCTV" title="CCTV" /><br>
-<img src="https://img.shields.io/badge/Security%20cameras-0369A1?style=flat&logoColor=white" alt="Security cameras" title="Security cameras" /><br>
-<img src="https://img.shields.io/badge/VMS-0F766E?style=flat&logoColor=white" alt="VMS" title="VMS" /><br>
-<img src="https://img.shields.io/badge/NVR-155E75?style=flat&logoColor=white" alt="NVR" title="NVR" /><br>
-<img src="https://img.shields.io/badge/RTSP-7C3AED?style=flat&logoColor=white" alt="RTSP" title="RTSP" /><br>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg" title="FFmpeg" /><br>
-<img src="https://img.shields.io/badge/FFprobe-007808?style=flat&logo=ffmpeg&logoColor=white" alt="FFprobe" title="FFprobe" />
+<img src="https://img.shields.io/badge/Video%20surveillance-0F766E?style=flat&logoColor=white" alt="Video surveillance" title="Video surveillance: CCTV, cameras, VMS, NVR, RTSP" /><br>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg" title="FFmpeg and FFprobe" />
 
 </td>
 <td align="center" valign="top">
