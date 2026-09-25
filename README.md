@@ -9,7 +9,9 @@
 
 # Local tools. Open experiments. Interactive worlds.
 
-Selected public tools, experiments, and research.
+I build local AI tools, desktop utilities, and interactive worlds. Public safety and defense technology are part of that background. I care about clear behavior, useful tools, and evidence that a change worked.
+
+These are selected public projects. The research is experimental; each repo explains what was tested and what remains unproven.
 
 ## Project showcase
 
@@ -17,17 +19,17 @@ Selected public tools, experiments, and research.
 <tr>
 <td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/aldertrace"><img src="assets/card-aldertrace-collectible.png" width="100%" alt="Aldertrace — Evidence before action. Research into agent prerequisite checks; 80 synthetic cases, Python." /></a>
-<p>Routing overhead exceeded the reading avoided. Savings on completed coding tasks remain unproven.</p>
+<p>An experiment in checking prerequisites before an agent acts. Routing overhead exceeded the reading avoided; savings on completed coding tasks remain unproven.</p>
 <p><a href="https://github.com/rustybladerunner/aldertrace#start-here">Offline demo</a> · <a href="https://github.com/rustybladerunner/aldertrace#what-the-experiment-found">Results</a></p>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/jev-skills"><img src="assets/card-jev-skills-collectible.png" width="100%" alt="jev-skills — Prove the change. Test the claim. Two workflows for integration review and bounded experiments, with Python examples." /></a>
-<p>Reusable agent workflows for reviewing integrations and running bounded experiments.</p>
-<p><a href="https://github.com/rustybladerunner/jev-skills#readme">Explore the workflows</a></p>
+<p>Jev's business review: where the decision models fit, what we have tested, and where the evidence stops. Includes workflows for integration review and bounded experiments.</p>
+<p><a href="https://github.com/rustybladerunner/jev-skills#readme">Use cases and business review</a> · <a href="https://github.com/rustybladerunner/jev-skills/tree/main/jev-integrate">Integration workflow</a></p>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/rustybladerunner/vigilant-cogwheel"><img src="assets/card-vigilant-cogwheel.svg" width="100%" alt="vigilant-cogwheel — local LoRA fine-tune for Ministral-3B." /></a>
-<p>Local LoRA fine-tuning workflow for Ministral-3B, with a CLI and sample data.</p>
+<a href="https://github.com/rustybladerunner/vigilant-cogwheel"><img src="assets/card-vigilant-cogwheel-collectible.png" width="100%" alt="Vigilant Cogwheel — Tune locally. Test the result. Experimental LoRA workflow for Ministral-3B, using Python and Unsloth." /></a>
+<p>An earlier experiment in local LoRA fine-tuning for Ministral-3B, with a CLI and sample data. Setup and performance claims need a fresh validation pass.</p>
 <p><a href="https://github.com/rustybladerunner/vigilant-cogwheel#readme">Read the workflow</a></p>
 </td>
 </tr>
@@ -46,7 +48,8 @@ Earlier tools, demos, and research notes.
 
 </details>
 
-## Stack
+<details>
+<summary>Tools and stack</summary>
 
 <table>
 <tr>
@@ -147,6 +150,13 @@ Earlier tools, demos, and research notes.
 </tr>
 </table>
 
-## Models
+</details>
+
+<details>
+<summary>Model usage · dated snapshots</summary>
+
+These charts use different measures: tokens, code edits, and account limits. They are usage snapshots, not a comparison of model quality. Some periods are incomplete.
 
 <img src="assets/model-usage.svg" width="100%" alt="Combined model chart, each source as its own share. Claude tokens: Opus 5 41%, Opus 4.8 23%, Fable 5 16%, Fable 5.1 16%, Sonnet 5 2%, Opus 4.7 under 1%. Cursor code edits: Composer 2.5 44%, Grok 4.6 39%, Grok 4.7 17%, GPT-5.6 Sol under 1%. Codex weekly limit, Sep 12-26: gpt-6-astra 96%, gpt-5.6-sol 4%, auto-review under 1%. Sep 12-19 is marked incomplete. Not one pooled ranking." />
+
+</details>
