@@ -17,24 +17,29 @@ These are selected public projects. The research is experimental; each repo expl
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/impossible-task-skills"><img src="assets/card-impossible-task-skills-collectible.png" width="100%" alt="Impossible Task Skills — Read the gauge. Fix it once. Method skills for agent work: 17 core skills and 14 short lens editions." /></a>
 <p>Method skills for agent work: 17 core skills, 14 short lens editions and measured trigger results. Written in controlled technical English.</p>
 <p><a href="https://github.com/rustybladerunner/impossible-task-skills#readme">Browse the skills</a> · <a href="https://impossibletask.dev/skills/">Read them on the site</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<a href="https://github.com/rustybladerunner/obs-director-mcp"><img src="assets/card-obs-director-mcp-collectible.png" width="100%" alt="OBS Director — Set the scene. Run the cue. Local OBS Studio control over MCP, with checked results; Python." /></a>
+<p>Control OBS Studio from an MCP client. A cue runs its steps in order, and local code checks and records each result. An alpha under the MIT license.</p>
+<p><a href="https://github.com/rustybladerunner/obs-director-mcp#readme">Read the README</a> · <a href="https://github.com/rustybladerunner/obs-director-mcp/releases">Releases</a></p>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/aldertrace"><img src="assets/card-aldertrace-collectible.png" width="100%" alt="Aldertrace — Evidence before action. Research into agent prerequisite checks; 80 synthetic cases, Python." /></a>
 <p>An experiment in checking prerequisites before an agent acts. Routing overhead exceeded the reading avoided; savings on completed coding tasks remain unproven.</p>
 <p><a href="https://github.com/rustybladerunner/aldertrace#start-here">Offline demo</a> · <a href="https://github.com/rustybladerunner/aldertrace#what-the-experiment-found">Results</a></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/jev-skills"><img src="assets/card-jev-skills-collectible.png" width="100%" alt="jev-skills — Prove the change. Test the claim. Two workflows for integration review and bounded experiments, with Python examples." /></a>
 <p>Jev's business review: where the decision models fit, what we have tested, and where the evidence stops. Includes workflows for integration review and bounded experiments.</p>
 <p><a href="https://github.com/rustybladerunner/jev-skills#readme">Use cases and business review</a> · <a href="https://github.com/rustybladerunner/jev-skills/tree/main/jev-integrate">Integration workflow</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/vigilant-cogwheel"><img src="assets/card-vigilant-cogwheel-collectible.png" width="100%" alt="Vigilant Cogwheel — Tune locally. Test the result. Experimental LoRA workflow for Ministral-3B, using Python and Unsloth." /></a>
 <p>An earlier experiment in local LoRA fine-tuning for Ministral-3B, with a CLI and sample data. Setup and performance claims need a fresh validation pass.</p>
 <p><a href="https://github.com/rustybladerunner/vigilant-cogwheel#readme">Read the workflow</a></p>
