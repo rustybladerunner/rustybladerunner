@@ -9,7 +9,7 @@
 
 # Local tools. Open experiments. Interactive worlds.
 
-I build local AI tools, desktop utilities, and interactive worlds. Public safety and defense technology are part of that background. I care about clear behavior, useful tools, and evidence that a change worked.
+I build local AI tools, desktop utilities, and interactive worlds. I care about clear behavior, useful tools, and evidence that a change worked.
 
 These are selected public projects. The research is experimental; each repo explains what was tested and what remains unproven.
 
@@ -36,7 +36,7 @@ These are selected public projects. The research is experimental; each repo expl
 <tr>
 <td width="33%" valign="top">
 <a href="https://github.com/rustybladerunner/jev-skills"><img src="assets/card-jev-skills-collectible.png" width="100%" alt="jev-skills — Prove the change. Test the claim. Two workflows for integration review and bounded experiments, with Python examples." /></a>
-<p>Jev's business review: where the decision models fit, what we have tested, and where the evidence stops. Includes workflows for integration review and bounded experiments.</p>
+<p>Jev is a decision model that chooses from a defined menu, so software can inspect that choice before acting. Jev's business review: where the decision models fit, what we have tested, and where the evidence stops. Includes workflows for integration review and bounded experiments.</p>
 <p><a href="https://github.com/rustybladerunner/jev-skills#readme">Use cases and business review</a> · <a href="https://github.com/rustybladerunner/jev-skills/tree/main/jev-integrate">Integration workflow</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ These are selected public projects. The research is experimental; each repo expl
 </table>
 
 <details>
-<summary>Earlier work · 3 projects</summary>
+<summary>Earlier work · 4 projects</summary>
 
 Earlier tools, demos, and research notes.
 
@@ -57,6 +57,7 @@ Earlier tools, demos, and research notes.
 | [alphalight](https://github.com/rustybladerunner/alphalight) | A small browser light experiment with 10 Hz and 40 Hz modes. |
 | [signaled-gear](https://github.com/rustybladerunner/signaled-gear) | Personal research notes distilled from public talks on agentic coding. |
 | [Integrated-API-Bridge](https://github.com/rustybladerunner/Integrated-API-Bridge) | A Flask / spyne demo connecting REST and SOAP services. |
+| [Oligarchy](https://github.com/rustybladerunner/Oligarchy) | A custom agent harness for running and testing Omarchy releases. |
 
 </details>
 
@@ -138,8 +139,6 @@ Earlier tools, demos, and research notes.
 <img src="assets/icons/pfsense.svg" height="28" alt="pfSense" title="pfSense" /><br>
 <img src="assets/icons/asterisk.svg" height="28" alt="Asterisk" title="Asterisk" /><br>
 <img src="https://img.shields.io/badge/FreePBX-F47920?style=flat&logoColor=white" alt="FreePBX" title="FreePBX" /><br>
-<img src="https://img.shields.io/badge/Access%20control-334155?style=flat&logoColor=white" alt="Access control" title="Access control" /><br>
-<img src="https://img.shields.io/badge/Video%20surveillance-0F766E?style=flat&logoColor=white" alt="Video surveillance" title="Video surveillance: CCTV, cameras, VMS, NVR, RTSP" /><br>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg" title="FFmpeg and FFprobe" />
 
 </td>
@@ -161,14 +160,5 @@ Earlier tools, demos, and research notes.
 </td>
 </tr>
 </table>
-
-</details>
-
-<details>
-<summary>Model usage · dated snapshots</summary>
-
-These charts use different measures: tokens, code edits, and account limits. They are usage snapshots, not a comparison of model quality. Some periods are incomplete.
-
-<img src="assets/model-usage.svg" width="100%" alt="Combined model chart, each source as its own share. Claude tokens: Opus 5 41%, Opus 4.8 23%, Fable 5 16%, Fable 5.1 16%, Sonnet 5 2%, Opus 4.7 under 1%. Cursor code edits: Composer 2.5 44%, Grok 4.6 39%, Grok 4.7 17%, GPT-5.6 Sol under 1%. Codex weekly limit, Sep 12-26: gpt-6-astra 96%, gpt-5.6-sol 4%, auto-review under 1%. Sep 12-19 is marked incomplete. Not one pooled ranking." />
 
 </details>
